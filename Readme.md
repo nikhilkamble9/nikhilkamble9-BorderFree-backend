@@ -1,6 +1,6 @@
 To build the app - go build -> 
 
-// package to install to start golang rest api
+// package to install to build golang rest api
   - go get -u github.com/gorilla/mux
   - go get github.com/gorilla/handlers
   - go get -u gorm.io/gorm

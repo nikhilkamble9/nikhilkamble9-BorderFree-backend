@@ -1,3 +1,5 @@
+To build the app - go build -> 
+
 // package to install to start golang rest api
   - go get -u github.com/gorilla/mux
   - go get github.com/gorilla/handlers
